@@ -2,5 +2,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/sinargrafindo/public_html/halodunia/
+    - export DEPLOYPATH=/home/sinargrafindo/public_html/
     - /bin/cp index.php $DEPLOYPATH
