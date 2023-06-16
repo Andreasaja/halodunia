@@ -5,7 +5,7 @@
 <title>Form Login</title>
 </head>
 <body class="text-center"><br><br>
-    <center><h1 class="h3 mb-3 font-weight-normal">sugih ubah</h1>
+    <center><h1 class="h3 mb-3 font-weight-normal">sugih ubah asdas</h1>
     <br>Last Update : 01082021</center><br><br>
    
 </body>
