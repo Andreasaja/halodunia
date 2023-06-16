@@ -3,4 +3,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/sinargrafindo/public_html/
-    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
